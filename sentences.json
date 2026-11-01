@@ -1,285 +1,520 @@
 {
   "sentences": [
     {
-      "sentence": "My brother plays football with his friends every Saturday morning.",
+      "sentence": "Yesterday we saw a huge rainbow over the hills.",
       "alternatives": [
-        "Every Saturday morning my brother plays football with his friends.",
-        "My brother plays football every Saturday morning with his friends."
+        "We saw a huge rainbow over the hills yesterday.",
+        "Over the hills yesterday we saw a huge rainbow."
       ]
     },
     {
-      "sentence": "After dinner we usually go for a long walk along the river.",
+      "sentence": "I cook dinner for my family every Sunday.",
       "alternatives": [
-        "We usually go for a long walk along the river after dinner.",
-        "Usually after dinner we go for a long walk along the river."
+        "Every Sunday I cook dinner for my family."
       ]
     },
     {
-      "sentence": "Yesterday I met an old friend in the town centre.",
+      "sentence": "Tomorrow she will visit her aunt in Wales.",
       "alternatives": [
-        "I met an old friend in the town centre yesterday.",
-        "In the town centre yesterday I met an old friend.",
-        "Yesterday in the town centre I met an old friend."
+        "She will visit her aunt in Wales tomorrow.",
+        "In Wales tomorrow she will visit her aunt."
       ]
     },
     {
-      "sentence": "If it rains tomorrow we will stay at home and watch a film.",
+      "sentence": "He usually walks to work in the morning.",
       "alternatives": [
-        "We will stay at home and watch a film if it rains tomorrow.",
-        "If it rains tomorrow we will watch a film and stay at home."
+        "In the morning he usually walks to work.",
+        "Usually he walks to work in the morning."
       ]
     },
     {
-      "sentence": "She puts on her coat and hat before she leaves the house.",
+      "sentence": "At night the owls hunt in the quiet woods.",
       "alternatives": [
-        "Before she leaves the house she puts on her coat and hat.",
-        "She puts on her hat and coat before she leaves the house.",
-        "Before she leaves the house she puts on her hat and coat."
+        "The owls hunt in the quiet woods at night.",
+        "In the quiet woods the owls hunt at night."
       ]
     },
     {
-      "sentence": "My grandfather tells us funny stories about his childhood after lunch on Sundays.",
+      "sentence": "If you are cold, put on a jumper.",
       "alternatives": [
-        "After lunch on Sundays my grandfather tells us funny stories about his childhood.",
-        "On Sundays after lunch my grandfather tells us funny stories about his childhood.",
-        "My grandfather tells us funny stories about his childhood on Sundays after lunch."
+        "Put on a jumper if you are cold."
       ]
     },
     {
-      "sentence": "Although the weather was cold, we enjoyed our picnic in the park.",
+      "sentence": "We went swimming in the lake after lunch.",
       "alternatives": [
-        "We enjoyed our picnic in the park although the weather was cold.",
-        "In the park we enjoyed our picnic although the weather was cold."
+        "After lunch we went swimming in the lake.",
+        "We went swimming after lunch in the lake."
       ]
     },
     {
-      "sentence": "The children were very quiet because they were listening to a story.",
+      "sentence": "She always drinks tea with honey and lemon.",
       "alternatives": [
-        "Because they were listening to a story the children were very quiet."
+        "She always drinks tea with lemon and honey."
       ]
     },
     {
-      "sentence": "Last summer we travelled to Spain with our cousins and stayed in a small hotel.",
+      "sentence": "The shop sells bread, milk and fresh eggs.",
       "alternatives": [
-        "We travelled to Spain with our cousins and stayed in a small hotel last summer."
+        "The shop sells milk, bread and fresh eggs.",
+        "The shop sells bread, fresh eggs and milk.",
+        "The shop sells milk, fresh eggs and bread.",
+        "The shop sells fresh eggs, bread and milk.",
+        "The shop sells fresh eggs, milk and bread."
       ]
     },
     {
-      "sentence": "I always read the newspaper while I drink my coffee in the morning.",
+      "sentence": "Because it was late, we went straight home.",
       "alternatives": [
-        "In the morning I always read the newspaper while I drink my coffee.",
-        "While I drink my coffee in the morning I always read the newspaper.",
-        "I always read the newspaper in the morning while I drink my coffee.",
-        "While I drink my coffee I always read the newspaper in the morning."
+        "We went straight home because it was late."
       ]
     },
     {
-      "sentence": "The shop on the corner sells fresh bread and cakes every morning.",
+      "sentence": "Before breakfast he feeds the hens and ducks.",
       "alternatives": [
-        "Every morning the shop on the corner sells fresh bread and cakes.",
-        "The shop on the corner sells fresh cakes and bread every morning.",
-        "Every morning the shop on the corner sells fresh cakes and bread."
+        "Before breakfast he feeds the ducks and hens.",
+        "He feeds the hens and ducks before breakfast.",
+        "He feeds the ducks and hens before breakfast."
       ]
     },
     {
-      "sentence": "When the lesson finished the students quickly packed their bags and left the classroom.",
+      "sentence": "My cousin lives in Spain but works in France.",
       "alternatives": [
-        "The students quickly packed their bags and left the classroom when the lesson finished.",
-        "When the lesson finished the students packed their bags quickly and left the classroom."
+        "My cousin works in France but lives in Spain."
       ]
     },
     {
-      "sentence": "My sister has been learning to paint since she moved to Leeds last year.",
+      "sentence": "When the bell rang, the pupils left quickly.",
       "alternatives": [
-        "Since she moved to Leeds last year my sister has been learning to paint."
+        "The pupils left quickly when the bell rang.",
+        "When the bell rang, the pupils quickly left."
       ]
     },
     {
-      "sentence": "We need to leave early tomorrow morning if we want to catch the first train.",
+      "sentence": "Last week I bought a warm winter coat.",
       "alternatives": [
-        "If we want to catch the first train we need to leave early tomorrow morning.",
-        "Tomorrow morning we need to leave early if we want to catch the first train."
+        "I bought a warm winter coat last week."
       ]
     },
     {
-      "sentence": "The old man sat quietly on the bench and fed the pigeons in the square.",
+      "sentence": "He reads the news online every morning.",
       "alternatives": [
-        "The old man sat quietly on the bench in the square and fed the pigeons.",
-        "In the square the old man sat quietly on the bench and fed the pigeons."
+        "Every morning he reads the news online."
       ]
     },
     {
-      "sentence": "She was so tired after the long journey that she fell asleep on the sofa.",
+      "sentence": "In summer we eat breakfast in the garden.",
       "alternatives": [
-        "After the long journey she was so tired that she fell asleep on the sofa."
+        "We eat breakfast in the garden in summer.",
+        "In the garden in summer we eat breakfast."
       ]
     },
     {
-      "sentence": "Whenever it snows heavily the buses stop running and the schools close.",
+      "sentence": "The baby slept peacefully all through the storm.",
       "alternatives": [
-        "The buses stop running and the schools close whenever it snows heavily.",
-        "Whenever it snows heavily the schools close and the buses stop running.",
-        "The schools close and the buses stop running whenever it snows heavily."
+        "All through the storm the baby slept peacefully.",
+        "The baby peacefully slept all through the storm."
       ]
     },
     {
-      "sentence": "My parents bought a small cottage near the sea when they retired last spring.",
+      "sentence": "She sent her grandmother a card on Tuesday.",
       "alternatives": [
-        "When they retired last spring my parents bought a small cottage near the sea.",
-        "Last spring when they retired my parents bought a small cottage near the sea.",
-        "My parents bought a small cottage near the sea last spring when they retired."
+        "On Tuesday she sent her grandmother a card."
       ]
     },
     {
-      "sentence": "You can borrow my bicycle tomorrow if you promise to bring it back before dinner.",
+      "sentence": "We always eat lunch outside when it is sunny.",
       "alternatives": [
-        "If you promise to bring it back before dinner you can borrow my bicycle tomorrow.",
-        "Tomorrow you can borrow my bicycle if you promise to bring it back before dinner."
+        "When it is sunny we always eat lunch outside."
       ]
     },
     {
-      "sentence": "The museum is closed on Mondays but it opens at nine on every other day.",
+      "sentence": "Next month my brother is moving to Bristol.",
       "alternatives": [
-        "The museum opens at nine on every other day but it is closed on Mondays.",
-        "On Mondays the museum is closed but it opens at nine on every other day.",
-        "On every other day the museum opens at nine but it is closed on Mondays."
+        "My brother is moving to Bristol next month."
       ]
     },
     {
-      "sentence": "He found his lost wallet under the sofa while he was cleaning the living room.",
+      "sentence": "They carefully climbed the steep path to the top.",
       "alternatives": [
-        "While he was cleaning the living room he found his lost wallet under the sofa."
+        "Carefully they climbed the steep path to the top.",
+        "They climbed the steep path to the top carefully.",
+        "They climbed the steep path carefully to the top."
       ]
     },
     {
-      "sentence": "Our neighbours invited us to a barbecue in their garden on Saturday afternoon.",
+      "sentence": "I will phone you when I get home.",
       "alternatives": [
-        "On Saturday afternoon our neighbours invited us to a barbecue in their garden.",
-        "Our neighbours invited us on Saturday afternoon to a barbecue in their garden."
+        "When I get home I will phone you."
       ]
     },
     {
-      "sentence": "I have never been to Italy but I would love to visit Rome one day.",
+      "sentence": "Although she was ill, she went to work.",
       "alternatives": [
-        "I would love to visit Rome one day but I have never been to Italy.",
-        "One day I would love to visit Rome but I have never been to Italy.",
-        "I have never been to Italy but one day I would love to visit Rome."
+        "She went to work although she was ill."
       ]
     },
     {
-      "sentence": "Nobody wanted to leave the cinema until the end because the film was so exciting.",
+      "sentence": "The farmer planted potatoes and carrots in spring.",
       "alternatives": [
-        "Because the film was so exciting nobody wanted to leave the cinema until the end."
+        "The farmer planted carrots and potatoes in spring.",
+        "In spring the farmer planted potatoes and carrots.",
+        "In spring the farmer planted carrots and potatoes."
       ]
     },
     {
-      "sentence": "My best friend sends me a funny postcard from every city she visits.",
+      "sentence": "My dad fixes the car at the weekend.",
       "alternatives": [
-        "From every city she visits my best friend sends me a funny postcard."
+        "At the weekend my dad fixes the car."
       ]
     },
     {
-      "sentence": "After the heavy rain stopped, the children ran outside and splashed in the puddles.",
+      "sentence": "On Friday evenings we usually watch a film.",
       "alternatives": [
-        "The children ran outside and splashed in the puddles after the heavy rain stopped."
+        "We usually watch a film on Friday evenings.",
+        "Usually on Friday evenings we watch a film."
       ]
     },
     {
-      "sentence": "We should leave a note for the neighbours before we go on holiday next week.",
+      "sentence": "The children giggled quietly behind the garden wall.",
       "alternatives": [
-        "Before we go on holiday next week we should leave a note for the neighbours."
+        "Quietly the children giggled behind the garden wall.",
+        "Behind the garden wall the children giggled quietly."
       ]
     },
     {
-      "sentence": "The bus driver kindly waited for the old lady who was running to the stop.",
+      "sentence": "Sit down while the doctor finishes his call.",
       "alternatives": [
-        "The bus driver waited kindly for the old lady who was running to the stop.",
-        "Kindly the bus driver waited for the old lady who was running to the stop."
+        "While the doctor finishes his call, sit down."
       ]
     },
     {
-      "sentence": "She spent the whole weekend painting the fence and cleaning the garden shed.",
+      "sentence": "He wore a woolly hat and thick gloves.",
       "alternatives": [
-        "She spent the whole weekend cleaning the garden shed and painting the fence.",
-        "The whole weekend she spent painting the fence and cleaning the garden shed.",
-        "The whole weekend she spent cleaning the garden shed and painting the fence."
+        "He wore thick gloves and a woolly hat."
       ]
     },
     {
-      "sentence": "Once the soup has cooked for twenty minutes, add the salt and stir well.",
+      "sentence": "Every evening the old dog sleeps by the fire.",
       "alternatives": [
-        "Add the salt and stir well once the soup has cooked for twenty minutes.",
-        "Once the soup has cooked for twenty minutes, stir well and add the salt.",
-        "Stir well and add the salt once the soup has cooked for twenty minutes."
+        "The old dog sleeps by the fire every evening.",
+        "By the fire every evening the old dog sleeps.",
+        "The old dog sleeps every evening by the fire."
       ]
     },
     {
-      "sentence": "I forgot my umbrella this morning so I got very wet on the way to work.",
+      "sentence": "Since January I have been learning French online.",
       "alternatives": [
-        "This morning I forgot my umbrella so I got very wet on the way to work.",
-        "I forgot my umbrella so I got very wet on the way to work this morning."
+        "I have been learning French online since January."
       ]
     },
     {
-      "sentence": "The little girl carefully carried a bowl of water across the kitchen to her puppy.",
+      "sentence": "We stayed indoors because the weather was terrible.",
       "alternatives": [
-        "Carefully the little girl carried a bowl of water across the kitchen to her puppy.",
-        "The little girl carried a bowl of water carefully across the kitchen to her puppy."
+        "Because the weather was terrible we stayed indoors."
       ]
     },
     {
-      "sentence": "Although he was nervous about the interview, he arrived early and answered every question calmly.",
+      "sentence": "The waiter smiled and brought us the menu.",
       "alternatives": [
-        "He arrived early and answered every question calmly although he was nervous about the interview.",
-        "Although he was nervous about the interview, he answered every question calmly and arrived early."
+        "The waiter brought us the menu and smiled."
       ]
     },
     {
-      "sentence": "Many people in our village walk to the market on Fridays to buy fresh vegetables.",
+      "sentence": "If he hurries, he will catch the early bus.",
       "alternatives": [
-        "On Fridays many people in our village walk to the market to buy fresh vegetables.",
-        "Many people in our village walk to the market to buy fresh vegetables on Fridays."
+        "He will catch the early bus if he hurries."
       ]
     },
     {
-      "sentence": "The train was delayed for an hour because there was a tree on the line.",
+      "sentence": "My sister paints in her room after school.",
       "alternatives": [
-        "Because there was a tree on the line the train was delayed for an hour."
+        "After school my sister paints in her room.",
+        "My sister paints after school in her room."
       ]
     },
     {
-      "sentence": "My uncle, who lives in Australia, phones us every Christmas to wish us well.",
+      "sentence": "Early in the morning the market is very busy.",
       "alternatives": [
-        "Every Christmas my uncle, who lives in Australia, phones us to wish us well.",
-        "My uncle, who lives in Australia, phones us to wish us well every Christmas."
+        "The market is very busy early in the morning."
       ]
     },
     {
-      "sentence": "They have promised to repair the road outside our house before the winter begins.",
+      "sentence": "I borrowed a book from the library today.",
       "alternatives": [
-        "Before the winter begins they have promised to repair the road outside our house.",
-        "They have promised before the winter begins to repair the road outside our house."
+        "Today I borrowed a book from the library.",
+        "I borrowed a book today from the library."
       ]
     },
     {
-      "sentence": "Please remember to switch off all the lights and lock the front door when you leave.",
+      "sentence": "The bakery closes at five on Saturdays.",
       "alternatives": [
-        "When you leave please remember to switch off all the lights and lock the front door.",
-        "Please remember to lock the front door and switch off all the lights when you leave.",
-        "When you leave, please remember to lock the front door and switch off all the lights."
+        "On Saturdays the bakery closes at five.",
+        "The bakery closes on Saturdays at five."
       ]
     },
     {
-      "sentence": "Our cat likes to sleep on the warm windowsill in the afternoon sun.",
+      "sentence": "Last night a fox ran across our garden.",
       "alternatives": [
-        "In the afternoon sun our cat likes to sleep on the warm windowsill.",
-        "Our cat likes to sleep in the afternoon sun on the warm windowsill."
+        "A fox ran across our garden last night."
       ]
     },
     {
-      "sentence": "She sings beautifully, and everyone in the choir admires her wonderful voice.",
+      "sentence": "She laughed when she saw his silly hat.",
       "alternatives": [
-        "Everyone in the choir admires her wonderful voice, and she sings beautifully."
+        "When she saw his silly hat she laughed."
+      ]
+    },
+    {
+      "sentence": "This afternoon we are visiting the new museum.",
+      "alternatives": [
+        "We are visiting the new museum this afternoon."
+      ]
+    },
+    {
+      "sentence": "My neighbour waters his tomatoes every evening.",
+      "alternatives": [
+        "Every evening my neighbour waters his tomatoes."
+      ]
+    },
+    {
+      "sentence": "The students finished their exams on Friday.",
+      "alternatives": [
+        "On Friday the students finished their exams."
+      ]
+    },
+    {
+      "sentence": "Last Sunday she photographed the old church.",
+      "alternatives": [
+        "She photographed the old church last Sunday."
+      ]
+    },
+    {
+      "sentence": "He nervously opened the letter from the bank.",
+      "alternatives": [
+        "Nervously he opened the letter from the bank.",
+        "He opened the letter from the bank nervously."
+      ]
+    },
+    {
+      "sentence": "When it gets dark, the street lights come on.",
+      "alternatives": [
+        "The street lights come on when it gets dark."
+      ]
+    },
+    {
+      "sentence": "Our flight to Rome leaves early tomorrow.",
+      "alternatives": [
+        "Tomorrow our flight to Rome leaves early."
+      ]
+    },
+    {
+      "sentence": "The doctor will see you in ten minutes.",
+      "alternatives": [
+        "In ten minutes the doctor will see you."
+      ]
+    },
+    {
+      "sentence": "After the match, the players shook hands politely.",
+      "alternatives": [
+        "The players shook hands politely after the match.",
+        "After the match the players politely shook hands."
+      ]
+    },
+    {
+      "sentence": "My aunt grows roses and lavender in her garden.",
+      "alternatives": [
+        "My aunt grows lavender and roses in her garden.",
+        "In her garden my aunt grows roses and lavender.",
+        "In her garden my aunt grows lavender and roses."
+      ]
+    },
+    {
+      "sentence": "Please wait here until the manager returns.",
+      "alternatives": [
+        "Until the manager returns please wait here."
+      ]
+    },
+    {
+      "sentence": "I usually go to bed before eleven.",
+      "alternatives": [
+        "Usually I go to bed before eleven.",
+        "Before eleven I usually go to bed."
+      ]
+    },
+    {
+      "sentence": "She was reading quietly when the phone rang.",
+      "alternatives": [
+        "When the phone rang she was reading quietly.",
+        "She was quietly reading when the phone rang."
+      ]
+    },
+    {
+      "sentence": "They sell fresh fish at the harbour on Mondays.",
+      "alternatives": [
+        "On Mondays they sell fresh fish at the harbour.",
+        "At the harbour on Mondays they sell fresh fish.",
+        "They sell fresh fish on Mondays at the harbour."
+      ]
+    },
+    {
+      "sentence": "My brother gave me a book for my birthday.",
+      "alternatives": [
+        "For my birthday my brother gave me a book."
+      ]
+    },
+    {
+      "sentence": "He is saving money because he wants a guitar.",
+      "alternatives": [
+        "Because he wants a guitar he is saving money."
+      ]
+    },
+    {
+      "sentence": "I will wait outside unless it starts raining.",
+      "alternatives": [
+        "Unless it starts raining I will wait outside."
+      ]
+    },
+    {
+      "sentence": "Yesterday the tourists photographed the castle.",
+      "alternatives": [
+        "The tourists photographed the castle yesterday."
+      ]
+    },
+    {
+      "sentence": "The soup needs more salt and a little pepper.",
+      "alternatives": [
+        "The soup needs a little pepper and more salt."
+      ]
+    },
+    {
+      "sentence": "In winter the days are short and cold.",
+      "alternatives": [
+        "The days are short and cold in winter.",
+        "In winter the days are cold and short.",
+        "The days are cold and short in winter."
+      ]
+    },
+    {
+      "sentence": "Nobody answered the door when we knocked.",
+      "alternatives": [
+        "When we knocked nobody answered the door."
+      ]
+    },
+    {
+      "sentence": "She wrapped the present in red paper carefully.",
+      "alternatives": [
+        "Carefully she wrapped the present in red paper.",
+        "She carefully wrapped the present in red paper."
+      ]
+    },
+    {
+      "sentence": "He studies hard because he wants to travel.",
+      "alternatives": [
+        "Because he wants to travel he studies hard."
+      ]
+    },
+    {
+      "sentence": "My phone battery died during the long journey.",
+      "alternatives": [
+        "During the long journey my phone battery died."
+      ]
+    },
+    {
+      "sentence": "The little boy proudly showed us his drawing.",
+      "alternatives": [
+        "Proudly the little boy showed us his drawing.",
+        "The little boy showed us his drawing proudly."
+      ]
+    },
+    {
+      "sentence": "We could hear music from the flat upstairs.",
+      "alternatives": [
+        "From the flat upstairs we could hear music."
+      ]
+    },
+    {
+      "sentence": "I rarely eat meat but I love cheese.",
+      "alternatives": [
+        "I love cheese but I rarely eat meat."
+      ]
+    },
+    {
+      "sentence": "Leave the keys on the table before you go.",
+      "alternatives": [
+        "Before you go, leave the keys on the table."
+      ]
+    },
+    {
+      "sentence": "The train stopped suddenly and everyone jumped.",
+      "alternatives": [
+        "Suddenly the train stopped and everyone jumped."
+      ]
+    },
+    {
+      "sentence": "We ate pancakes with syrup on Sunday morning.",
+      "alternatives": [
+        "On Sunday morning we ate pancakes with syrup."
+      ]
+    },
+    {
+      "sentence": "Even though he was tired, he kept running.",
+      "alternatives": [
+        "He kept running even though he was tired."
+      ]
+    },
+    {
+      "sentence": "The garden looks lovely after the rain.",
+      "alternatives": [
+        "After the rain the garden looks lovely."
+      ]
+    },
+    {
+      "sentence": "Every Tuesday my class visits the swimming pool.",
+      "alternatives": [
+        "My class visits the swimming pool every Tuesday."
+      ]
+    },
+    {
+      "sentence": "She gave the dog a bone and some water.",
+      "alternatives": [
+        "She gave the dog some water and a bone."
+      ]
+    },
+    {
+      "sentence": "We will have a party if the sun shines.",
+      "alternatives": [
+        "If the sun shines we will have a party."
+      ]
+    },
+    {
+      "sentence": "We stood because the bus was full.",
+      "alternatives": [
+        "Because the bus was full we stood."
+      ]
+    },
+    {
+      "sentence": "He painted the old wooden gate green last weekend.",
+      "alternatives": [
+        "Last weekend he painted the old wooden gate green."
+      ]
+    },
+    {
+      "sentence": "In the evening we sit and watch the sunset.",
+      "alternatives": [
+        "We sit and watch the sunset in the evening."
+      ]
+    },
+    {
+      "sentence": "My grandmother knits warm socks for all of us.",
+      "alternatives": [
+        "For all of us my grandmother knits warm socks."
+      ]
+    },
+    {
+      "sentence": "As soon as she arrived, it started to rain.",
+      "alternatives": [
+        "It started to rain as soon as she arrived."
       ]
     }
   ]
